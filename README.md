@@ -3,6 +3,7 @@
 JSON files for the languages supported by Instatus.
 
 To add translation please use the translate program and run with command:
+
 "npm start"
 
 To improve your language or add support for a new one, please create a pull request 🚀

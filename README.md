@@ -5,7 +5,7 @@ JSON files for the languages supported by Instatus.
 ### Requirements:
 1- google cloud translate api key from //https://console.developers.google.com/apis/credentials
 
-To add translation please use the translate program and run with command: "npm start"
+To add translation please use the translate.js program and run with command: "npm start"
 
 To improve your language or add support for a new one, please create a pull request 🚀
 
